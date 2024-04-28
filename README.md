@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/v3ys/v3ys_readme/main/_ff82439e-961c-47ef-8cac-94fd532bd1de%20(1).jpeg)
+![MasterHead](https://raw.githubusercontent.com/v3ys/v3ys/main/_ff82439e-961c-47ef-8cac-94fd532bd1de%20(1).jpeg)
 <h1 align="center">Hi 👋, I'm Veysel</h1>
 <h3 align="center">Code is life</h3>
 
@@ -16,7 +16,7 @@
 <h3 align="center">Connect with me: </h3>
 <p align="center">
   <a href="mailto:veyselv6@gmail.com" style="background-color: #FFFFFF; color: #000000;"><img src="https://img.shields.io/badge/E--posta-veyselv6%40gmail.com-red" /></a>
-  <a href="(https://www.linkedin.com/in/veysel-eraslan-v3ys/)"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="[(https://www.linkedin.com/in/veysel-eraslan-v3ys/)]"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <!-- language images-->
