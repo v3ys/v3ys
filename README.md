@@ -5,7 +5,7 @@
  <!-- 42 Profile -->
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/veraslan?1337Badge=off&UM6P=off" alt="veraslan's 42 stats" style="display: block; margin: auto;" />
+    <img src="https://badge.mediaplus.ma/black/veraslan?1337Badge=off&UM6P=off" alt="veraslan's 42 stats" style="display: block; margin: auto;" />
   </a>
 </p>
 
