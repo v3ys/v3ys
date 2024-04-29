@@ -28,7 +28,7 @@ a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v3ys" alt="v3ys" /></a> </p>
 
 <!-- most use language-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ys&theme=tokyonight" alt="v3ys" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ys" alt="v3ys" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v3ys&show_icons=true&locale=en" alt="v3ys" /></p>
 
